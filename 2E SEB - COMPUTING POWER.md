@@ -22,8 +22,7 @@ To write a Python program to compute the power of a given number using an approp
 ### PROGRAM
 
 ```python
-#Reg.No: 212222060253
-#Nmae: SRIJAYAN T
+
 
 def result(a, b, c):
     mul =a*b*c
