@@ -25,8 +25,7 @@ To write a Python program to print a triangular star pattern using loops.
 
 ### PROGRAM
 ```python
-#Reg.No: 212222060253
-#Name: SRIJAYAN T
+
 #Add Your Code Here
 r=int(input())
 m=r+1
